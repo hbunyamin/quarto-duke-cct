@@ -6,6 +6,8 @@ editor: visual
 bibliography: references.bib
 ---
 
+# Introduction
+
 ## Data
 
 For this analysis we'll use the `penguins` dataset from the [**palmerpenguins**](https://allisonhorst.github.io/palmerpenguins/) package [@gorman2014].
@@ -52,3 +54,11 @@ penguins %>%
   slice_head(n=10) %>% 
   select(species, island, bill_length_mm, bill_depth_mm) %>% gt()
 ```
+
+# Analysis
+
+## Modeling results
+
+A little bit of analysis ...
+
+## References
