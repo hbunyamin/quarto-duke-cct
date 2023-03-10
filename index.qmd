@@ -1,7 +1,7 @@
 ---
 title: "Hello, Quarto!"
 author: "Hendra Bunyamin"
-format: html
+format: revealjs
 editor: visual
 bibliography: references.bib
 ---
